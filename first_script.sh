@@ -1,2 +1,2 @@
 
-echo "What a noce day todya"
+echo "What a nice day today"
